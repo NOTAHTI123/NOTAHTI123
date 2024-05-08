@@ -16,4 +16,4 @@
 </div>
 ### :man_technologist: About Me : I am a Full Stack Developer 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m current completing by Bachelor's in Computer Science and learning frontend and backend development for building web applications.
+- :telescope: I’m current completing my Bachelor's in Computer Science and learning frontend and backend development for building web applications.
